@@ -1,5 +1,9 @@
 {
-    "name": "pdf-viewerjs",
-    "version": "1.0.0",
-    "description": "NPM for Viewerjs"
+    "name": "axc-viewerjs",
+    "version": "1.0.1",
+    "description": "NPM for Viewerjs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jlnaguirre95/pdf-viewerjs"
+    }
 }
